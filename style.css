@@ -1,16 +1,16 @@
 .topbar-item {
-  display: inline-block;
+  display: inline;
+  
 }
 
 .main-page-wrapper {
   text-align: center;
-  display: inline-block;
 }
 
 .main-page-list {
   border: 3px solid black;
   text-align: center;
-  display: inline;
+  display: inline-block;
 }
 
 .main-page-item {
